@@ -92,3 +92,19 @@ button:focus-visible {
   background-repeat: none;
   background-size: cover;
 }
+
+.workoutLog{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.workoutLog input{
+  border: 2px solid #394554;
+  width: 10%;
+  height: 20px;
+  background-color: #071629;
+  mix-blend-mode: screen;
+  border: solid;
+  border-radius: 10px;
+}
