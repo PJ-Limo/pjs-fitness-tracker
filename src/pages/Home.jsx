@@ -1,8 +1,10 @@
 const Home = () => {
   return (
-    <div className='Hero'>
+    <div className='hero'>
       <div className='left-h'>
-        <h1>This the title</h1>
+        <h1>Welcome!!!</h1>
+        <p>Track your progress, crush your goals, and unlock a fitter you—one workout at a time! </p>
+        <h2>Log latest workout</h2>
       </div>
     </div>
   )

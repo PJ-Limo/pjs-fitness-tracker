@@ -1,5 +1,9 @@
 .wrapper {
-     position: relative;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    position: relative;
      width: 500px;
      height: 450px;
      background: #071629;
