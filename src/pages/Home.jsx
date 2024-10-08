@@ -42,10 +42,8 @@ const Home = () => {
         <input type="text" placeholder='number of sets'/>
         <input type="text" placeholder='number of reps'/>
         <input type="text" placeholder='Add weight (kgs)'/>
-        <label htmlFor="notes">
-          <textarea id="notes" name="notes" rows="3" cols="30" placeholder="write workout notes here..."></textarea>
-        </label>
       </div>
+      <textarea id="notes" name="notes" rows="3" cols="30" placeholder="write workout notes here..."></textarea>
     </div>
   )
 }
